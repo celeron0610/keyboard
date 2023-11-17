@@ -7,15 +7,15 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     )
 };
 bool encoder_update_user(uint8_t index, bool clockwise) {
-    if (index == 0) { 
+    if (index == 1) { 
         if (clockwise) {tap_code(KC_A);}
         else {tap_code(KC_B);}
     }
-    else if (index == 1) { 
+    else if (index == 2) { 
         if (clockwise) {tap_code(KC_C);}
         else {tap_code(KC_D);}
     }
-    else if (index == 2) {
+    else if (index == 3) {
         if (clockwise) {tap_code(KC_E);}
         else {tap_code(KC_F);}
     }
