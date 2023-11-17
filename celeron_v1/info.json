@@ -1,7 +1,7 @@
 {
-    "manufacturer": "celeron",
+    "manufacturer": "celeron0610",
     "keyboard_name": "celeron_v1",
-    "maintainer": "celeron",
+    "maintainer": "celeron0610",
     "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
