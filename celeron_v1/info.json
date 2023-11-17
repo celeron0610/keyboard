@@ -15,8 +15,8 @@
     "processor": "atmega32u4",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x15DF",
-        "vid": "0xFEED"
+        "pid": "0x434B",
+        "vid": "0x434B"
     },
 
     "matrix_pins": {
