@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [celeron0610](https://github.com/celeron0610)
+* Keyboard Maintainer: [celeron0610](https://github.com/celeron0610/keyboard/tree/main/celeron_v1)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
