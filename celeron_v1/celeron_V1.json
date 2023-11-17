@@ -1,0 +1,15 @@
+{
+  "name": "celeron_v1",
+  "vendorId": "0xFEED",
+  "productId": "0x15DF",
+  "matrix": { "rows": 9, "cols": 1 },
+  "layouts": {
+    "keymap": [
+    [{"x":1},"0.7\n\n\n\n\n\n\n\n\ne1","0.8\n\n\n\n\n\n\n\n\ne2","0.9\n\n\n\n\n\n\n\n\ne3"],
+    [{"x":1},"0,0","0,1","0.2"],
+    ["0.3","0.4","0.5","0.6"]
+
+    ]
+
+  }
+}
