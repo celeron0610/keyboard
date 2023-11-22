@@ -1,5 +1,5 @@
 {
-  "name": "celeron_v1",
+  "name": "Celeron_v1",
   "vendorId": "0x434B",
   "productId": "0x434B",
   "matrix": { "rows": 1, "cols": 10 },
